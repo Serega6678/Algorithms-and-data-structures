@@ -1,4 +1,4 @@
-## MIPT advanced AADS
+## Advanced AADS
 
 **Welcome to this repository,** here you'll find the implementation of the hardest data structures and algorithms in MIPT's advanced AADS course.
 
